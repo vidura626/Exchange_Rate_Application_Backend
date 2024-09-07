@@ -9,8 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class TestController {
 
     @GetMapping
-    public String getTest(){
-        return "Pipeline and deployment successfully";
-
+    public String getTest() {
+        return "test";
     }
 }
