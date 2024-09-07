@@ -16,7 +16,7 @@ jobs:
       - name: Build with Maven
         run: mvn clean install -DskipTests
       - name: Login Dockerhub
-        run: docker login -u ${{secret.DOCKER_USERNAME}} -p ${{secret.DOCKER_PASSWORD}}
+        run: docker login -u ${{secrets.DOCKER_USERNAME}} -p ${{secrets.DOCKER_PASSWORD}}
       - name: Build the Image
         run: docker run -t viduradocker1/exchangerateappdocker .
       - name: Push to Image to Docker Repository
