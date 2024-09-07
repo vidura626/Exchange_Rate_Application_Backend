@@ -1,0 +1,10 @@
+spring:
+  profiles:
+    active: vidura
+  application:
+    name: exchange-rate-application
+
+server:
+  port: 8085
+  error:
+    include-message: always
