@@ -18,7 +18,7 @@ jobs:
       - name: Login Dockerhub
         run: docker login -u ${{secrets.DOCKER_USERNAME}} -p ${{secrets.DOCKER_PASSWORD}}
       - name: Build the Image
-        run: docker run -t viduradocker1/exchangerateappdocker .
+        run: docker build -t viduradocker1/exchangerateappdocker .
       - name: Push to Image to Docker Repository
         run: docker push viduradocker1/exchangerateappdocker:latest
 
