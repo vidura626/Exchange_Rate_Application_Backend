@@ -27,7 +27,7 @@ jobs:
     runs-on: [ec2-exchrate]
     steps:
       - name: Pull the Docker Image
-        run: docker pull viduradocker1/exchangerateappdocker:latest
+        run: docker pull viduradocker1/exchangerateappdocker
       - name: Delete the instance
         run: docker rm -f exchrate-container
       - name: Run the Image in Container
