@@ -4,7 +4,7 @@ on:
     branches: [feature-Vidura-merge]
 
 jobs:
-  buid:
+  build:
     runs-on: [ubuntu-latest]
     steps:
       - uses: actions/checkout@v4
