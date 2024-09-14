@@ -38,6 +38,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2li23WWStCa0zDKaHyYrqqKaieU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -51,6 +52,7 @@
     "WebServerToolWindowFactoryState": "false",
     "com.codeium.enabled": "true",
     "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/usr/Documents/My/Assignment-WebService/exchange-rate-application/exchange-rate-application/pom.xml",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -60,7 +62,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "show.migrate.to.gradle.popup": "false",
     "spring.configuration.checksum": "28b12473c88f8e54af55c64aac123296",
     "vue.rearranger.settings.migration": "true"
@@ -114,6 +116,7 @@
       <workItem from="1725698077197" duration="3191000" />
       <workItem from="1725702275346" duration="7846000" />
       <workItem from="1725721962523" duration="1935000" />
+      <workItem from="1726332617274" duration="24000" />
     </task>
     <task id="LOCAL-00001" summary="Done">
       <option name="closed" value="true" />
@@ -202,6 +205,9 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
     <MESSAGE value="Done" />
     <option name="LAST_COMMIT_MESSAGE" value="Done" />
   </component>

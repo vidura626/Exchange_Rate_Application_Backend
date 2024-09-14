@@ -1,6 +1,6 @@
 spring:
-  profiles:
-    active: vidura
+#  profiles:
+#    active: vidura
   application:
     name: exchange-rate-application
 
