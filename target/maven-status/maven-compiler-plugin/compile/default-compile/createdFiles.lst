@@ -1,5 +1,0 @@
-com\example\exchange_rate_application\controller\CurrencyController.class
-com\example\exchange_rate_application\entity\CurrencyDetails.class
-com\example\exchange_rate_application\service\CurrencyService.class
-com\example\exchange_rate_application\ExchangeRateApplication.class
-com\example\exchange_rate_application\service\imple\CurrencyServiceImpl.class
