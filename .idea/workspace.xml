@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20c50531-a51c-45d3-ac49-fe369fd171f3" name="Changes" comment="Done">
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/exchange_rate_application/controller/CurrencyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/exchange_rate_application/controller/CurrencyController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application-vidura.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/exchange_rate_application/ExchangeRateApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/exchange-rate-application-0.0.1-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/exchange-rate-application-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.example.exchange_rate_application.ExchangeRateApplicationTests.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.example.exchange_rate_application.ExchangeRateApplicationTests.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/example/exchange_rate_application/ExchangeRateApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/example/exchange_rate_application/TestController.class" beforeDir="false" />
-    </list>
+    <list default="true" id="20c50531-a51c-45d3-ac49-fe369fd171f3" name="Changes" comment="Done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +51,6 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "com.codeium.enabled": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "Feature-Merge-Vidura",
     "last_opened_file_path": "C:/Users/usr/Documents/Working_Directory/Exchange_Rate_Application_Backend/src/main/java/com/example/exchange_rate_application",
@@ -142,7 +124,7 @@
       <workItem from="1725698077197" duration="3191000" />
       <workItem from="1725702275346" duration="7846000" />
       <workItem from="1725721962523" duration="1935000" />
-      <workItem from="1726332617274" duration="9760000" />
+      <workItem from="1726332617274" duration="10366000" />
     </task>
     <task id="LOCAL-00001" summary="Done">
       <option name="closed" value="true" />
@@ -336,7 +318,31 @@
       <option name="project" value="LOCAL" />
       <updated>1726365181500</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Done">
+      <option name="closed" value="true" />
+      <created>1726366468691</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1726366468691</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Done">
+      <option name="closed" value="true" />
+      <created>1726366636539</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1726366636539</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Done">
+      <option name="closed" value="true" />
+      <created>1726366923978</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1726366923978</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
