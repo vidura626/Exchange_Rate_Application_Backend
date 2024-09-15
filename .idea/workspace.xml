@@ -5,16 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20c50531-a51c-45d3-ac49-fe369fd171f3" name="Changes" comment="Done">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/exchange_rate_application/TestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/exchange_rate_application/controller/CurrencyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/exchange_rate_application/controller/CurrencyController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/exchange_rate_application/TestController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/exchange-rate-application-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/exchange-rate-application-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/exchange-rate-application-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/exchange-rate-application-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.example.exchange_rate_application.ExchangeRateApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.example.exchange_rate_application.ExchangeRateApplicationTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.example.exchange_rate_application.ExchangeRateApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.example.exchange_rate_application.ExchangeRateApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application-vidura.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/exchange_rate_application/ExchangeRateApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/exchange-rate-application-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/exchange-rate-application-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.example.exchange_rate_application.ExchangeRateApplicationTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.example.exchange_rate_application.ExchangeRateApplicationTests.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/example/exchange_rate_application/ExchangeRateApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/example/exchange_rate_application/TestController.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +100,7 @@
       <command value="mvn install" />
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ExchangeRateApplication">
+  <component name="RunManager" selected="Docker.Dockerfile">
     <configuration name="ExchangeRateApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="exchange-rate-application" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.exchange_rate_application.ExchangeRateApplication" />
@@ -105,7 +111,6 @@
     <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
       <deployment type="dockerfile">
         <settings>
-          <option name="buildOnly" value="true" />
           <option name="sourceFilePath" value="Dockerfile" />
         </settings>
       </deployment>
@@ -137,7 +142,7 @@
       <workItem from="1725698077197" duration="3191000" />
       <workItem from="1725702275346" duration="7846000" />
       <workItem from="1725721962523" duration="1935000" />
-      <workItem from="1726332617274" duration="8088000" />
+      <workItem from="1726332617274" duration="9760000" />
     </task>
     <task id="LOCAL-00001" summary="Done">
       <option name="closed" value="true" />
@@ -299,7 +304,39 @@
       <option name="project" value="LOCAL" />
       <updated>1726363578351</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Done">
+      <option name="closed" value="true" />
+      <created>1726364793929</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1726364793929</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Done">
+      <option name="closed" value="true" />
+      <created>1726364844563</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1726364844563</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Done">
+      <option name="closed" value="true" />
+      <created>1726365052678</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1726365052678</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Done">
+      <option name="closed" value="true" />
+      <created>1726365181500</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1726365181500</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
