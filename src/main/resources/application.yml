@@ -1,6 +1,6 @@
 spring:
-#  profiles:
-#    active: vidura
+  profiles:
+    active: aws
   application:
     name: exchange-rate-application
 
